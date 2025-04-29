@@ -1,4 +1,3 @@
-# P4
 <!-- DEVELOPER: Olumuyiwa Akinde, IS117-004, Fall 2024 -->
 <!DOCTYPE html>
 <html lang="en">
@@ -52,7 +51,7 @@
   <div class="row g-4">
     <div class="col-md-4">
       <div class="card h-100">
-        <img src="images/development.jpg" class="card-img-top" alt="Development of AVs">
+        <img src="https://tse1.mm.bing.net/th?id=OIP.jg0qtzqwSZUP9ndFZAz4-QHaE8&cb=iwp1&pid=Api" class="card-img-top" alt="Development of AVs">
         <div class="card-body">
           <h5 class="card-title">Development</h5>
           <p class="card-text">Explore the history behind driverless vehicle innovations starting from the 1960s.</p>
@@ -63,7 +62,7 @@
 
     <div class="col-md-4">
       <div class="card h-100">
-        <img src="images/technology.jpg" class="card-img-top" alt="Technology Behind AVs">
+        <img src="https://tse4.mm.bing.net/th?id=OIP.A_4a4cXY1NoyAQ92G_yOCQHaEf&pid=Api" class="card-img-top" alt="Technology Behind AVs">
         <div class="card-body">
           <h5 class="card-title">Key Technologies</h5>
           <p class="card-text">Learn about LiDAR, AI, GPS, and sensor technologies that make AVs possible.</p>
@@ -74,7 +73,7 @@
 
     <div class="col-md-4">
       <div class="card h-100">
-        <img src="images/benefits.jpg" class="card-img-top" alt="Benefits and Challenges">
+        <img src="https://tse1.mm.bing.net/th?id=OIP.aI3JXIx72Xfyjkqpb0z1lwHaE8&pid=Api" class="card-img-top" alt="Benefits and Challenges">
         <div class="card-body">
           <h5 class="card-title">Benefits & Challenges</h5>
           <p class="card-text">Understand how AVs could change our lives and the hurdles we must overcome.</p>
