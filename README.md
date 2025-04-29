@@ -85,7 +85,7 @@
 
 <!-- Footer -->
 <footer class="bg-dark text-white text-center p-3">
-  <p>&copy; 2025 OLumuyiwa Akinde. oa356. All rights reserved.</p>
+  <p>&copy; 2025 Olumuyiwa Akinde. oa356. All rights reserved.</p>
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
