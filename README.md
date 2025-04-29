@@ -1,5 +1,4 @@
 <!-- DEVELOPER: Olumuyiwa Akinde, IS117-004, Fall 2024 -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
